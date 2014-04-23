@@ -8,6 +8,6 @@ from lda_gibbs import *
 
 if __name__ == '__main__':
     docs = gene_synthetic(1, 10, 100, 25, 1000)
-    phi, a, b, c = gibbs_learn(docs, 10, 200)
+    phi = gibbs_learn(docs, 10, 200)
     for i in range(10):
         print phi[i, :]
