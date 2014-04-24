@@ -2,10 +2,12 @@ LDA
 ===
 Python Implementation of LDA Using Gibbs Sampling: includes the learning algorithm and a test dataset.
 
-Todo: alpha, beta != 1
+## Todo: 
 
-Reference
-===
+alpha, beta != 1
+
+## Reference
+
 Y. Wang. Distributed Gibbs Sampling of Latent Topic Models: The Gritty Details. August 2008. [Implementation]
 
 G. Heinrich. Parameter estimation for text analysis. Technical Report Fraunhofer IGD Darmstadt, Germany. version 2.9: 15 September 2009. [Parameter estimation]
