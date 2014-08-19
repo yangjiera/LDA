@@ -19,3 +19,5 @@ T. L. Griffiths and M. Steyvers. Finding scientific topics. Proceedings of the N
 D. Blei, A. Ng, and M. Jordan. Latent Dirichlet allocation. Journal of Machine Learning Research, 3:993–1022, January 2003. [LDA paper] 
 
 D. Blei. Course Note for COS597C in Princeton (Advanced Methods in Probabilistic Modeling): Mixed-membership Models. October, 2013. Link: http://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/mixed-membership.pdf [Background, note: other notes may also be of interest, such as nonparametric bayesian, variational inference] 
+
+K. P. Murphy. Machine Learning: a Probabilistic Perspective. MIT Press, 2012.
